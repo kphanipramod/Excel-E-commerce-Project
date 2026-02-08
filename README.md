@@ -1,7 +1,5 @@
-# Excel E-commerce-Project
+# Project Summary
 
-
-# Trend in the last 13 weeks?
 1) Over the 13-week period, our business demonstrated strong growth momentum with total sales of 1,518 units generating $93,416 in revenue.
 2) Week 3 marked our peak performance with 170 units sold and $11,761 in revenue - representing our highest single-week achievement and suggesting successful promotional activity or seasonal demand.
 3) The period started modestly in Week 1 with just 59 units ($3,125), but quickly ramped up showing strong customer acquisition and market penetration efforts paying off.
